@@ -1,0 +1,81 @@
+Face Memory Game
+========================================================
+author: Dr.Salimah binti Mokhtar
+  
+
+1. SATHYARAO THAYANANTHA RAO (U2005272)
+2. KEISAVA RAGU (U2005318) 
+3. NIGEL ASIRRAJ (U2005296)
+4. ROHENN VILET( U2102767)
+
+
+#### Shiny App: 
+#### R code: https://github.com/sathya5401/face-memory-game
+
+Introduction
+========================================================
+left: 65%
+Human's Memory is far from flawless but most people do not remember everything that has happened to them.It gets stronger the more you use it. But you can't expect to develop stronger by lifting the same weight every day. You'll need to keep your mind stimulated at all times. This basic face memory game not only enhances your memory, but it also teaches you to pay attention to detail.This game promotes critical thinking, which aids in the development of humans attention to detail. Visual recognition can be improved by playing memory games.
+****  
+**Stakeholders**
+- Children to train their memory power
+- Old people whose memory is slowly fading away
+- Parents
+
+
+
+
+Data Science Process
+========================================================
+left: 65%
+
+**Asking Question**
+- How good is your memory power?
+- How can your memory be improved?
+
+
+**Finding Data And Getting Data**
+- Find data regarding how to use faces to increase memory power 
+- Find faces that suitable for memory games as to make it engaging and challenging
+
+***
+
+**Cleaning Data**
+- Removing the excessive and unnecessary data that was in the initial dataset that we found.
+
+
+**Model Deployment**
+- Deploying and presenting the data product.
+
+App Description and Manual
+========================================================
+left: 50%
+ 
+As soon as you click on the website, a display message pops out welcoming you to the website and a few text of messages will be displayed regarding the face memory game.
+![intro](intro.png)
+
+****
+
+**Instructions** : After pressing "play" button,the app will redirect to the instructions part before moving into game.
+![instru](gameinstructions.png)
+
+
+
+Summary Of Experience
+========================================================
+title: false
+
+**Game** : After finish playing the game, the score will be displayed with the level of your memory.
+![game](score.png)
+
+
+**Read Me**: Contain explanation of the shiny app
+
+***
+
+**Summary of Experience**
+
+#### To summarise our journey into the field of Data Science, it was both tough and rewarding. We found this course to be a fantastic introduction R programming language, and the Data Science process. We encountered several difficulties along the process, like as not being fluent enough in the R language, and this Shiny App was a difficult work for us because we were all unfamiliar with how to develop a complicated game or website, but it was a fantastic and educational experience. Special appreciation to Dr. Salimah for providing this opportunity to all of her students!
+
+Key Takeaways
+========================================================
