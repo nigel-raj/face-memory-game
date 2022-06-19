@@ -1,22 +1,22 @@
+
 Face Memory Game
 ========================================================
 author: Dr.Salimah binti Mokhtar
-  
-
 1. SATHYARAO THAYANANTHA RAO (U2005272)
 2. KEISAVA RAGU (U2005318) 
 3. NIGEL ASIRRAJ (U2005296)
 4. ROHENN VILET( U2102767)
 
 
-#### Shiny App: 
-#### R code: https://github.com/sathya5401/face-memory-game
+#### Shiny App: [paste later]
+#### GitHub: https://github.com/nigel-raj/face-memory-game
 
 Introduction
 ========================================================
 left: 65%
-Human's Memory is far from flawless but most people do not remember everything that has happened to them.It gets stronger the more you use it. But you can't expect to develop stronger by lifting the same weight every day. You'll need to keep your mind stimulated at all times. This basic face memory game not only enhances your memory, but it also teaches you to pay attention to detail.This game promotes critical thinking, which aids in the development of humans attention to detail. Visual recognition can be improved by playing memory games.
+The human memory is far from flawless but most people do not remember everything that has happened to them. It gets stronger the more you use it. But you can't expect it to develop by lifting the same weight every day. You'll need to keep your mind stimulated at all times. This basic face memory game not only enhances your memory, but it also teaches you to pay attention to every single detail. This game promotes critical thinking, which aids in the development of a human's attention to detail. Visual recognition can also be improved by playing memory games.
 ****  
+
 **Stakeholders**
 - Children to train their memory power
 - Old people whose memory is slowly fading away
@@ -51,12 +51,12 @@ App Description and Manual
 ========================================================
 left: 50%
  
-As soon as you click on the website, a display message pops out welcoming you to the website and a few text of messages will be displayed regarding the face memory game.
+The website begins by prompting the 'About' section detailing the cause for the game. You are also required to enter your name and set the time limit for the memory game.
 ![intro](intro.png)
 
 ****
 
-**Instructions** : After pressing "play" button,the app will redirect to the instructions part before moving into game.
+**Instructions** : After pressing the 'play' button,the app will redirect to the instructions before moving on to the game.
 ![instru](gameinstructions.png)
 
 
@@ -65,11 +65,11 @@ Summary Of Experience
 ========================================================
 title: false
 
-**Game** : After finish playing the game, the score will be displayed with the level of your memory.
+**Game** 
+
+After completing the game, the score will be displayed with a description of the level of your memory. It will also show if you completed it within the time limit set by the user.
 ![game](score.png)
 
-
-**Read Me**: Contain explanation of the shiny app
 
 ***
 
@@ -79,3 +79,9 @@ title: false
 
 Key Takeaways
 ========================================================
+
+- A face memory game is a fun way to enhance memory power.
+- By setting a time limit, you can challenge yourself to reach new milestones in terms of memory power.
+- Memory is crucial to humans and there is no end to the capabilities it has.
+- Facial recognition is more effective than object recognition.
+- Bad memory could cause conflict and should be improved.
