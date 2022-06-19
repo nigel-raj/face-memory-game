@@ -12,7 +12,7 @@ To run the application locally use:
 shiny::runGitHub(repo = "nigel-raj/face-memory-game")
 ```
 
-![](imgs/intro.png)
-![](imgs/gameinstructions.png)
-![](imgs/score.png)
+![](intro.png)
+![](gameinstructions.png)
+![](score.png)
 
