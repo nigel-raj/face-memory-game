@@ -2,7 +2,7 @@
 
 A [Shiny](https://github.com/rstudio/shiny) app to match all the identical faces as soon as possible!
 
-Rpubs: https://rpubs.com/NigelAsirraj/916243
+Rpubs: https://rpubs.com/NigelAsirraj/917386
 
 The website for the shiny app: https://facememorygame.shinyapps.io/face-memory-game-master/
 
